@@ -1,1 +1,6 @@
-THIS IS THE README FILE 
+-Everything in this assignment was implemented in a correct and professional manner
+-It was ensured that all files passed their respective validations 
+-Two css files were created for increased modularity
+-The assignment took ~4-6 hours
+-I did not collaborate with anyone on this assignment
+-w3cschools.com was used as an instructional tool
