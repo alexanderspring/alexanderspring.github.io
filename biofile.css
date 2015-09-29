@@ -1,0 +1,20 @@
+
+body{
+	background-image: url(mycity.jpg);
+	background-size: 1600px 1000px;
+    background-repeat: repeat;
+    text-align: center;
+    font-size: 20px;
+    font-family: Century;
+}
+
+h1{
+	font-family: Arial; 
+	font-weight: bold;
+	font-size: 30px;
+	background-color: #699FC5;
+    border: 3px solid;   
+    border-color: #A6C9E3; 
+    color: black;    
+    text-align: center;    
+}

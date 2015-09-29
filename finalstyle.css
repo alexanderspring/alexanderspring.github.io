@@ -1,0 +1,46 @@
+h1{
+	font-family: Arial; 
+	font-weight: bold;
+	background-color: #699FC5;
+    border: 2px solid;   
+    border-color: #A6C9E3;
+    color: black;    
+    text-align: center;    
+    font-size: 30px;
+}
+
+h2{
+	font-weight: bold;
+}
+
+body {
+	font-family: Century;
+	font-size: 12px;
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color: #699FC5;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:280px;
+    height:304px;
+}
+
+.subheaders{
+	font-weight: bold;
+}
+
+.timeline{
+	font-style: italic;
+}
+
+.homepage{
+	font-size: 20px;
+	text-align: center;
+	font-weight: bolder;
+	font-family: Helvetica;
+}
+
